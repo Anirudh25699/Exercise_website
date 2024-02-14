@@ -15,3 +15,6 @@ Installation
 Credits
 This website was created by Anirudh Srivastav
 Exercise data is sourced from the ExerciseDB API. Special thanks to Rapid API for providing the API.
+
+
+Checkout the deployed code at -https://65cd0252e16f9104e0067fb3--tangerine-sable-4aa8bd.netlify.app/exercise/3294
